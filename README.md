@@ -4,7 +4,6 @@ StudySync is a full-stack web application designed to help students manage acade
 
 ## 🚀 Features
 
-- 🔐 User Authentication (Register/Login/Logout)
 - 📝 Task Management (Add, view, and complete tasks)
 - 📊 Dashboard with task overview
 - ⏰ Deadline tracking with priority levels
